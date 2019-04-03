@@ -42,9 +42,9 @@ topics:
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
-  # - name: CSS
-  #   web_url: https://github.com/topics/css
-  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Godot
+    web_url: https://github.com/topics/godot
+    image_url: https://raw.githubusercontent.com/github/explore/5c564e0ba18e2808c3bb5389d3d61caf52fd7992/topics/godot/godot.png
 
   # - name: Web design
 
